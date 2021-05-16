@@ -1,4 +1,8 @@
+baseURL = "https://acobaugh.github.io/ud3-site/"
+relativeURLs = true
+canonifyURLs = true
 theme = "hugo-theme-learn"
+
 
 # For search functionality
 [outputs]
